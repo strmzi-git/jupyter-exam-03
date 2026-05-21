@@ -1,4 +1,4 @@
-Station,Date,Vector mean wind direction in degrees (360=north; 90=east; 180=south; 270=west; 0=calm/variable),Vector mean windspeed (in 0.1 m/s),Daily mean windspeed (in 0.1 m/s),Maximum wind gust (in 0.1 m/s),Daily mean temperature in (0.1 degrees Celsius),Minimum temperature (in 0.1 degrees Celsius),Maximum temperature (in 0.1 degrees Celsius),Sunshine duration (in 0.1 hour) calculated from global radiation (-1 for <0.05 hour),Percentage of maximum potential sunshine duration,Global radiation (in J/cm2),Precipitation duration (in 0.1 hour),Daily precipitation amount (in 0.1 mm) (-1 for <0.05 mm),Mean daily cloud cover (in octants; 9=sky invisible)
+Station,Date,vector_mean_direction_degrees,vector_mean_windspeed,windspeed,windgust,temp_mean,temp_min,temp_max,sun_dur,per_max_pot_sun_dur,global_radiation,precipitation_dur,precipitation,cloud_cover
   330,20100101,   50,   73,   82,  160,   -6,  -42,   21,   55,   70,  376,    0,    0,     
   330,20100102,  224,   39,   60,  110,   12,  -18,   38,    7,    9,  129,   45,   46,     
   330,20100103,   62,   40,   50,  140,  -21,  -44,   11,   68,   86,  417,    0,    0,     
